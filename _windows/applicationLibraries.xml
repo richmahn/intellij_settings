@@ -1,0 +1,16 @@
+<application>
+  <component name="libraryTable">
+    <library name="Python 2.7.12 (C:\Python27\python.exe) interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="stub [puppet module]">
+      <CLASSES>
+        <root url="file://$APPLICATION_PLUGINS_DIR$/puppet/lib/stubs" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>
